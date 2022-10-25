@@ -30,4 +30,3 @@ public abstract class Bird {
     // méthodes
     public abstract String sing();
 }
-//TEST
